@@ -23,5 +23,7 @@ public class Main {
         // Disegno del rettangolo in console
         System.out.println("Rettangolo disegnato:");
         rettangolo.disegna();
+
+        scanner.close();
     }
 }
