@@ -20,7 +20,7 @@ public class Rettangolo {
         return 2 * (base + altezza);
     }
 
-    // Bonus: Metodo per disegnare il rettangolo in console
+    // Bonus: Metodo per disegnare il rettangolo in
     void disegna() {
         for (int i = 0; i < altezza; i++) {
             for (int j = 0; j < base; j++) {
