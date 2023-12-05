@@ -20,7 +20,7 @@ public class Main {
         System.out.println("Area del rettangolo: " + rettangolo.calcolaArea());
         System.out.println("Perimetro del rettangolo: " + rettangolo.calcolaPerimetro());
 
-        // Bonus: Disegna il rettangolo in console
+        // Bonus: Disegna il rettangolo in consollee
         System.out.println("Rettangolo disegnato:");
         rettangolo.disegna();
 
